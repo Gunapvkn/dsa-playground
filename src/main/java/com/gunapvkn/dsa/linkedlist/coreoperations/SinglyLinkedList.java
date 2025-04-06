@@ -1,4 +1,4 @@
-package com.gunapvkn.dsa.linkedlist.basics.coreoperations;
+package com.gunapvkn.dsa.linkedlist.coreoperations;
 
 /**
  * A simple implementation of a singly‑linked list that supports the most common
